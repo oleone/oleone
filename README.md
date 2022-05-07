@@ -22,8 +22,7 @@
 
 ## Github Stats 🗠
 
-<div align="center">
-  <!-- <a href="https://github.com/oleone"> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleone&theme=blue-green"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=oleone&theme=blue-green"/>
+<div align="center" width="100%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleone&hide=scss,css,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oleone&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </div>
